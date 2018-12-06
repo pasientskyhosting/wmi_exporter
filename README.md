@@ -2,6 +2,7 @@
 # Consul/wmi_exporter For Windows
 
 WMI exporter: Windows installer - Prometheus exporter for Windows machines using the WMI (Windows Management Instrumentation).
+
 Consul agent: A Windows installer for a 64-bit Consul agent. Provided configurations assume client mode only.
 
 ## WMI Exporter Collectors
