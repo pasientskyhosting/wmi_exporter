@@ -93,3 +93,19 @@ Example:
   ]
 }
 ```
+
+
+## Create Consul Service Definition
+Path: C:\Program Files\Consul\config\wmi_exporter.json
+```
+{
+  "service": {
+    "name": "wmi-exporter",
+    "tags": [
+      "wmi-exporter",
+      "windows"
+    ],
+    "port": 9182
+  }
+}
+```
