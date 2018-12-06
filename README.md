@@ -84,6 +84,7 @@ Or use `msiexec /i Consul.msi` for an interactive insallation.
 
 ## Create Consul Config File
 Path: C:\Program Files\Consul\consul.json
+
 Example:
 ```
 {
